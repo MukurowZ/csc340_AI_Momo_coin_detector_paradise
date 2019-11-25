@@ -24,7 +24,7 @@ If you want to use please following this guide
      * Visual Studio C++ 2015
      * CUDA 10.0
      * cuDNN 10.0
-3. Drag and drop these into your tensorflow **<em>\models\research\object_detection\<em>**
+3. Drag and drop these into your tensorflow **\models\research\object_detection\**
 <img src="/docs/01.JPG">
     
     
