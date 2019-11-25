@@ -2,7 +2,7 @@
 This project is use to submit in _CSC340 Artificial Inteligence_ class, at _SIT@KMUTT, Thailand_
 
 ## To use this model
-*This Git repository provide only trained model and execute file.
+* This Git repository provide only trained model and execute file. *
 If you want to use please following this guide
 [EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10#2-set-up-tensorflow-directory-and-anaconda-virtual-environment)
 
@@ -27,4 +27,5 @@ If you want to use please following this guide
 3. Drag and drop these into your tensorflow **\models\research\object_detection\**
 <img src="/docs/01.JPG">
     
-    
+## More details about PyGrabber
+[andreaschiavinato/python_grabber](https://github.com/andreaschiavinato/python_grabber)
