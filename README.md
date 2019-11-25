@@ -25,6 +25,6 @@ If you want to use please following this guide
      * CUDA 10.0
      * cuDNN 10.0
 3. Drag and drop these into your tensorflow _\models\research\object_detection\ _
-    <img src="/docs/01.JPG">
+<img src="/docs/01.JPG">
     
     
