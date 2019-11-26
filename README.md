@@ -23,7 +23,9 @@ Using ```pip install <name>```
      * cuDNN 10.0
 3. Drag and drop these into your tensorflow **\models\research\object_detection\**
 <img src="/docs/01.JPG">
-4. Execute by running ```python momo_call.py```
+4. Execute by running
+
+```python momo_call.py```
     
 ## More details about PyGrabber
 [andreaschiavinato/python_grabber](https://github.com/andreaschiavinato/python_grabber)
