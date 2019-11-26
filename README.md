@@ -1,5 +1,5 @@
 # CSC340_AI_Momo_coin_detector_paradise
-This project is use to submit in _CSC340 Artificial Inteligence_ class, at _SIT@KMUTT, Thailand_
+This project is use to submit in _CSC340 Artificial Intelligence_ class, at _SIT@KMUTT, Thailand_
 Provide only trained model and execute file, if you want to use model please install Required Python library and setup tensorflow guide below
 
 ## Required Python library
