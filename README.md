@@ -3,6 +3,7 @@ This project is use to submit in _CSC340 Artificial Intelligence_ class, at _SIT
 Provide only trained model and execute file, if you want to use model please install Required Python library and setup tensorflow guide below
 
 ## Required Python library
+Using ```pip install <name>```
 1. hdf5
 2. opencv-python
 3. tensorflow (or tensorflow-gpu)
@@ -22,6 +23,7 @@ Provide only trained model and execute file, if you want to use model please ins
      * cuDNN 10.0
 3. Drag and drop these into your tensorflow **\models\research\object_detection\**
 <img src="/docs/01.JPG">
+4. Execute by running ```python momo_call.py```
     
 ## More details about PyGrabber
 [andreaschiavinato/python_grabber](https://github.com/andreaschiavinato/python_grabber)
